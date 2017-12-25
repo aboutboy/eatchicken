@@ -855,3 +855,12 @@
   width:85px;
   word-wrap:break-word;
 }
+#u218 {
+  position:absolute;
+  left:4px;
+  top:5px;
+  width:370px;
+  height:475px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
